@@ -1,3 +1,11 @@
+"""
+created by asa on Feb 2, 2018
+
+Description: finding Life path number from a birthdate
+
+"""
+
+
 month = int(input("Please enter your month of birth (1~12): \n"))
 day = int(input("Please enter your day of birth (1~31): \n"))
 year = int(input("Please enter you year of birth(YYYY): \n"))
